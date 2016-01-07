@@ -1,7 +1,7 @@
 name: FLZ
 favicon: null
-layout_spectrum: 0.773322121007368
-typography_spectrum: 0.9956976701505482
+layout_spectrum: 0.55176
+typography_spectrum: 0.295
 title: 'FLZ - Aprende a ser feliz... ahora!'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5872930302284658
+    - '#f39e00'
+    - '#3fa1b7'
+    - '#ffffff'
+    - '#2c1f00'
+    - '#7f5300'
+  brandStrength: 0.3125
   lightness: 0.6500577090773731
   saturation: 0.6175177982077003
   rhythmicContrast: 0.9037433948833495
