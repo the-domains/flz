@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FLZ - Aprende a ser feliz... ahora!]]></title>
         <description><![CDATA[FLZ - Aprende a ser feliz... ahora!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 09:12:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 09:15:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's up with Lorem Ipsum?]]></title>
+            <description><![CDATA[<article><h1>What's up with Lorem Ipsum?</h1><p>Lorem Ipsumis simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></article>]]></description>
+            <link>https://thegrid.ai/flz/whats-up-with-lorem-ipsum/index.html</link>
+            <guid isPermaLink="false">ee542eb5-92c9-429c-bb48-a8c94e41a1f2</guid>
+            <pubDate>Fri, 22 Jan 2016 09:15:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Título de Prueba]]></title>
             <description><![CDATA[<article><h1>Título de Prueba</h1><p>No sé qué tal está esto de The Grid. Es interesante ver cómo ha evolucionado la tecnología en los últimos años. Ahora tenemos webs que se hacen a sí mismas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74ec7cce2f0f73615f8ba89ba7d9400b8da78226.jpg"></article>]]></description>
-            <link>undefinedtitulo-de-prueba/index.html</link>
+            <link>https://thegrid.ai/flz/titulo-de-prueba/index.html</link>
             <guid isPermaLink="false">85545ead-c700-428f-a8ab-68a66da8bde6</guid>
             <pubDate>Fri, 22 Jan 2016 09:12:37 GMT</pubDate>
         </item>
