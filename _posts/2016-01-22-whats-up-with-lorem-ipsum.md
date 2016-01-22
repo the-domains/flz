@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Veamos con un poco más de contenido
-datePublished: '2016-01-22T09:15:33.519Z'
-dateModified: '2016-01-22T09:14:54.017Z'
+datePublished: '2016-01-22T09:20:42.240Z'
+dateModified: '2016-01-22T09:19:31.453Z'
 title: "What's up with Lorem Ipsum?"
 author: []
+sourcePath: _posts/2016-01-22-whats-up-with-lorem-ipsum.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-whats-up-with-lorem-ipsum.md
-published: true
 url: whats-up-with-lorem-ipsum/index.html
 _type: Article
 
