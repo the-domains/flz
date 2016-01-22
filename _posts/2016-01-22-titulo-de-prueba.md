@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Probando los posts de The Grid
-datePublished: '2016-01-22T09:12:37.127Z'
-dateModified: '2016-01-22T09:11:58.563Z'
+datePublished: '2016-01-22T09:21:45.864Z'
+dateModified: '2016-01-22T09:21:28.675Z'
 title: Título de Prueba
 author: []
+sourcePath: _posts/2016-01-22-titulo-de-prueba.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-titulo-de-prueba.md
-published: true
 url: titulo-de-prueba/index.html
 _type: Article
 
